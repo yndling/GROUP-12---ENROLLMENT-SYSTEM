@@ -1,21 +1,28 @@
-Enrollment Form 
-
-Project Description
+Enrollment system
 
 Overview
-This remote enrollment form project aims to simplify 
-the enrollment process for students and their families,
-eliminating the need for long lines at school. By transitioning
-to an online format, we enhance convenience and accessibility 
-for all enrollees.
 
-Setup
+We have faced several challenges with our system,
+particularly on the form page. These issues have
+prompted us to carefully consider the best programming 
+tools to use for our project.
 
-For this project, we utilize XAMPP,
- which includes PHP and MySQL, 
-to efficiently collect and manage 
-enrollment data. This setup allows us to create
- a robust and user-friendly platform for gathering 
-essential information from students and their guardians.
+Choice of Technology
 
-git clone: 
+After evaluating various options, we decided to use 
+XAMPP due to its built-in features that facilitate
+local development. XAMPP provides a comprehensive 
+environment that includes the Apache server, MySQL database, 
+and PHP interpreter, making it an ideal choice for our needs.
+
+Coding Difficulties
+In addition to the challenges with the form page, 
+we encountered various coding issues. However, we managed to
+overcome these obstacles by utilizing PHP for the backend, 
+which effectively supports the frontend of our third page. 
+This combination allows us to create a seamless user experience 
+while ensuring that the data processing is efficient and reliable.
+
+By addressing these challenges head-on and leveraging the
+capabilities of XAMPP and PHP, we are working towards a more 
+robust and functional enrollment system.
